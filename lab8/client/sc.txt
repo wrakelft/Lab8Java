@@ -1,0 +1,7 @@
+add
+epw
+89
+89
+1000
+PLANE
+KEROSENE
